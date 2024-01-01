@@ -40,3 +40,5 @@ I'm a full stack developer specialized in Java and Laravel and Android. I work a
 - I read a lot of astropysics and quantum mechanincs.
 
 Feel free to explore my repositories and reach out if you want to collaborate or chat about anything! 😊
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
