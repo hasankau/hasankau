@@ -44,7 +44,7 @@ I'm a full stack developer specialized in Java and Laravel and Android. I work a
   - Cloud Services: AWS (Amazon Web Services), Azure, Google Cloud Platform (GCP)
   - Database Management: MySQL Workbench, MongoDB Compass, pgAdmin, Firebase, Neo4j
   - Testing: Selenium, JUnit, Postman
-  - Design: Figma
+  - Design: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/hasanka-wijekoon-93ba72101/
