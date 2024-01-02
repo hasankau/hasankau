@@ -3,7 +3,7 @@
 ## About Me
 I'm a full stack developer specialized in Java and Laravel and Android. I work as a freelancer too. I'm open to collaborate on Saas startups.
 
-[![Image of https://github.com/hasankau/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+[![Image of https://github.com/hasankau/my-profile-views-counter](https://github.com/hasankau/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 ## What I'm Currently Working On
 - [Project 1]: Insurance Mobile Application CSM/CRM and API
